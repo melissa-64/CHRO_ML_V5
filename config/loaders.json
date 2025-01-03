@@ -1,12 +1,4 @@
 {
     "defaultListView": false,
-    "loaders": [
-        {
-            "id": "Unlocker",
-            "name": "Unlocker",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1088498102396256276_cloud/main/BO6_Unlocker.exe",
-            "status": "online"
-        }
-    ]
+    "loaders": []
 }
