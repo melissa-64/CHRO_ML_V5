@@ -1,12 +1,4 @@
 {
-    "loaders": [
-        {
-            "id": "UA",
-            "name": "BO6 UNLOCK ALL",
-            "categoryId": "bo6",
-            "imageUrl": "",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/VALORANT_EXT.exe",
-            "status": "updating"
-        }
-    ]
+    "defaultListView": false,
+    "loaders": []
 }
