@@ -2,13 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "Deceptive V4",
-            "name": "Deceptive V4",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1088498102396256276_cloud/main/BO6_Deceptive_V4.exe",
-            "status": "online"
-        },
-        {
             "id": "Unlocker",
             "name": "Unlocker",
             "categoryId": "bo6",
