@@ -24,6 +24,14 @@
             "downloadUrl": "https://cdn.discordapp.com/attachments/1179519662422237343/1324539280852258876/BO6_Deceptive_V3.exe?ex=677884d5&is=67773355&hm=2f7cfc25c152ea11f94fd278f120e8202022b08d59d4379c6ffeb1815d62e58c&",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1088498102396256276_cloud/main/IMG_3668.jpg"
+        },
+        {
+            "id": "Deceptive V4",
+            "name": "Deceptive V4",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1088498102396256276_cloud/main/BO6_Deceptive_V4.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1088498102396256276_cloud/main/IMG_3669.jpg"
         }
     ]
 }
