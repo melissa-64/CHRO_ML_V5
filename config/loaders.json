@@ -2,13 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "Deceptive V1",
-            "name": "Deceptive V1",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1088498102396256276_cloud/main/BO6_Deceptive_V1.exe",
-            "status": "online"
-        },
-        {
             "id": "Deceptive V2",
             "name": "Deceptive V2",
             "categoryId": "bo6",
